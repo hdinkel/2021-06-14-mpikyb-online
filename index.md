@@ -201,9 +201,7 @@ special instructions.
   attempt to provide them.
 </p>
 {% else %}
-  We are dedicated to providing a positive and accessible learning environment for all. Please
-  notify the instructors in advance of the workshop if you require any accommodations or if there is
-  anything we can do to make this workshop more accessible to you.
+  We are dedicated to providing a positive and accessible learning environment for all. 
 </p>
 {% endif %}
 
@@ -256,7 +254,8 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to students of the "International Max Planck Research School", others may be admitted upon request.
+    This workshop is open to students of the International Max Planck Research School for the Mechanism of Mental Funtion and Dysfunction (IMPRS MMFD) and students of the GTC, others may be admitted upon request. 
+    Students that would like to participate in the course should have at least some experience with coding.
 </p>
 
 <hr/>
